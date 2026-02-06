@@ -137,7 +137,7 @@ cd vibe-coding-textbook
 Этот учебник создан с помощью передовых инструментов ИИ:
 
 ### IDE и редакторы
-- **[[Antigravity](https://antigravity.ai/)](https://antigravity.google/)** — AI-first IDE
+- **[[Antigravity](https://antigravity.google/)]** — AI-first IDE
 - **[Windsurf](https://codeium.com/windsurf)** — IDE от Codeium
 
 ### Языковые модели
