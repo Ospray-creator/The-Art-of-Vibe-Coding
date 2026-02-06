@@ -137,13 +137,13 @@ cd vibe-coding-textbook
 Этот учебник создан с помощью передовых инструментов ИИ:
 
 ### IDE и редакторы
-- **[[Antigravity](https://antigravity.google/)]** — AI-first IDE
-- **[Windsurf](https://codeium.com/windsurf)** — IDE от Codeium
+- **[Antigravity](https://antigravity.google/)** — AI-first IDE
+- **[Windsurf](https://windsurf.com/editor)** — IDE от Codeium
 
 ### Языковые модели
 - **[Google Gemini](https://gemini.google.com/)** — модели Google DeepMind
-- **[Kimi K2](https://kimi.moonshot.cn/)** — модель Moonshot AI
-- **[Qwen](https://qwen.aliyun.com/)** — модели Alibaba
+- **[Kimi K2](https://www.kimi.com/)** — модель Moonshot AI
+- **[Qwen](https://qwen.ai/home)** — модели Alibaba
 
 > Все упомянутые инструменты использовались в их **бесплатных некоммерческих версиях**.
 
@@ -207,7 +207,7 @@ git push origin feature/my-improvement
 
 | Язык | Статус | Контрибьютор |
 |------|--------|-------------|
-| 🇷🇺 Русский | ✅ Оригинал | [@FineINK](https://github.com/FineINK) |
+| 🇷🇺 Русский | ✅ Оригинал | [@FineINK](https://github.com/fineink) |
 | 🇬🇧 English | 🔜 В планах | Нужна помощь! |
 | 🇨🇳 中文 | 🔜 В планах | Нужна помощь! |
 | 🇪🇸 Español | 🔜 В планах | Нужна помощь! |
